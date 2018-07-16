@@ -1,0 +1,14 @@
+{
+    "name": "whinepad",
+    "version": "2.0.0",
+    "dependencies": {
+        "watch": "^1.0.2"
+    },
+    "devDependencies": {
+        "babel-preset-es2015": "^6.24.1",
+        "babel-preset-react": "^6.24.1",
+        "classnames": "^2.2.6",
+        "react": "^15.4.0",
+        "react-dom": "^15.4.0"
+    }
+}
